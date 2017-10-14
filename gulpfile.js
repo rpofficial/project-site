@@ -11,7 +11,7 @@ cssImport = require("postcss-import");
 // });
 
 gulp.task("html", function(){
-    console.log("Bye, Bye");
+    console.log("Index HTML Saved");
 });
 
 gulp.task("styles", function(){
